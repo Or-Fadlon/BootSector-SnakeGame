@@ -32,6 +32,9 @@ To build and run the Snake game, you need:
     ```
 2. Enjoy playing the game!
 
+## 🎥 Gameplay Video
+TODO: add video
+
 ## 📄 License
 This open-source project is available under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
