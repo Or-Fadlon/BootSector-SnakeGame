@@ -1,0 +1,4 @@
+Toturial Video - https://www.youtube.com/watch?v=tHO5x_Ha6pE
+FASM - https://flatassembler.net/docs.php?article=manual
+IBM BIOS Interface - https://ia801505.us.archive.org/18/items/bitsavers_ibmpcps2PSTechnicalReferenceApr87_5816663/PS2_and_PC_BIOS_Interface_Technical_Reference_Apr87.pdf
+Intel 8086 User Manual - https://edge.edx.org/c4x/BITSPilani/EEE231/asset/8086_family_Users_Manual_1_.pdf
